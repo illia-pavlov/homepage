@@ -1,9 +1,9 @@
 ::-moz-selection {
-    background: yellow;
+    background: lightgoldenrodyellow;
 }
 
 ::selection {
-    background: yellow;
+    background: lightgoldenrodyellow;
 }
 
 *,
